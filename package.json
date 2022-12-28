@@ -1,0 +1,22 @@
+{
+  "name": "mini-project9",
+  "version": "1.0.0",
+  "description": "Module 09 Mini-Project: Portfolio Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinni99/Mini-project9.git"
+  },
+  "author": "Vinni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinni99/Mini-project9/issues"
+  },
+  "homepage": "https://github.com/Vinni99/Mini-project9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
